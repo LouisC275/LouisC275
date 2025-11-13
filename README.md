@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisc275&label=Profile%20views&color=0e75b6&style=flat" alt="louisc275" /> </p>
 
-- 🔭 I’m currently working on **developing my own unity game**
+- 🔭 I’m currently working on **developing my own game on unreal engine 5**
 
 - 🌱 I’m currently learning **C++,HTML,CSS,JS,Python**
 
-- 💬 Ask me about **unity and federal Q sirens**
+- 💬 Ask me about **my work!**
 
 - 📫 How to reach me **louischarles.chapais@gmail.com**
 

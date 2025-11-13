@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://www.piercemfg.com/hs-fs/hubfs/Blog/What%20is%20a%20Quint%20Fire%20Truck/Banner-pierce-quint-fire-truck-image.jpg?width=1720&name=Banner-pierce-quint-fire-truck-image.jpg" alt="Firetruck Image" style="vertical-align: middle" />
-  Hi 👋, I'm Louis-Charles Chapais
+  Hi 👋, I'm Louis-Charles
 </h1>
 
 
-<h3 align="center">A passionate game developer on Unity</h3>
+<h3 align="center">A passionate game developer on Unreal and Unity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=louisc275&label=Profile%20views&color=0e75b6&style=flat" alt="louisc275" /> </p>
 
